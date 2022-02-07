@@ -4,7 +4,7 @@ A seasoned  Infrastructure Professional,Passionate in building systems in Cloud.
 
 🌱 I’m currently learning - Kubernetes
 
-👯 I’m looking to collaborate on - Cloud,Databases and Infrastructure Security
+👯 I’m looking to collaborate on - Cloud,SaaS Architecures,Databases and Infrastructure Security
 
 💬 Ask me about - Anything on Cloud, RDBMS,NoSQL
 
